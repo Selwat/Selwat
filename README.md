@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I'm Mikołaj</h1>
+<h1 style:{{textAlign:"center"}}>Hi there 👋, I'm Mikołaj</h1>
 
 I am a passionate Computer Science student with a keen interest in programming, particularly in frontend development. I enjoy creating user-friendly, responsive, and dynamic web applications that deliver a seamless experience. My goal is to continually grow as a developer by learning new technologies and improving my skills.
 
