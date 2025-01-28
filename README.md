@@ -17,8 +17,3 @@ I am deepening my knowledge of React and exploring the type-safe world of TypeSc
 
 👯‍♂️ Let's Collaborate!
 I'm always open to working on exciting projects, especially those related to frontend development. If you have an interesting idea or are looking for a contributor, feel free to reach out!
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Selwat)](https://git.io/streak-stats)
-
