@@ -4,16 +4,16 @@ I am a passionate Computer Science student with a keen interest in programming, 
 
 🚀 Skills & Interests:
 
-Frontend Development: HTML, CSS, JavaScript, React, Next.js
+Frontend Development: JavaScript, React, Next.js, HTML, CSS, TypeScript, Tailwind CSS, GraphQL
 
-Currently Learning: React ⚛️, TypeScript 📘, Next.js, Tailwind CSS
+Currently Learning: Jest, Playwright
 
-Tools & Libraries: Git, GitHub, Tailwind CSS
+Tools & Libraries: Git, GitHub, RsuiteJS
 
 Interest Areas: UI/UX design, web performance optimization, and accessibility
 
 🌱 What I'm Currently Learning:
-I am deepening my knowledge of React and exploring the type-safe world of TypeScript, as well as learning Next.js for server-side rendering and Tailwind CSS for building modern, responsive user interfaces with ease.
+Exploring testing libraries like Playwright (E2E) and Jest (unit testing).
 
 👯‍♂️ Let's Collaborate!
 I'm always open to working on exciting projects, especially those related to frontend development. If you have an interesting idea or are looking for a contributor, feel free to reach out!
