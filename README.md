@@ -6,8 +6,6 @@ I am a passionate Computer Science student with a keen interest in programming, 
 
 Frontend Development: JavaScript, React, Next.js, HTML, CSS, TypeScript, Tailwind CSS, GraphQL
 
-Currently Learning: Jest, Playwright
-
 Tools & Libraries: Git, GitHub, RsuiteJS
 
 Interest Areas: UI/UX design, web performance optimization, and accessibility
